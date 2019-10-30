@@ -1,0 +1,260 @@
+{
+    "language": "es",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+        {
+            "boundingBox": "258,498,256,407",
+            "lines": [
+                {
+                    "boundingBox": "268,498,197,25",
+                    "words": [
+                        {
+                            "boundingBox": "268,499,65,19",
+                            "text": "Datos"
+                        },
+                        {
+                            "boundingBox": "341,498,124,25",
+                            "text": "personales"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "269,569,108,20",
+                    "words": [
+                        {
+                            "boundingBox": "269,569,108,20",
+                            "text": "Nombres:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "269,603,112,20",
+                    "words": [
+                        {
+                            "boundingBox": "269,603,112,20",
+                            "text": "Profesión:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "269,639,238,20",
+                    "words": [
+                        {
+                            "boundingBox": "269,639,63,20",
+                            "text": "Fecha"
+                        },
+                        {
+                            "boundingBox": "341,639,26,20",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "376,640,131,19",
+                            "text": "nacimiento:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "268,674,246,20",
+                    "words": [
+                        {
+                            "boundingBox": "268,674,75,20",
+                            "text": "Cédula"
+                        },
+                        {
+                            "boundingBox": "352,674,26,20",
+                            "text": "de"
+                        },
+                        {
+                            "boundingBox": "386,674,128,20",
+                            "text": "ciudadanía:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "267,709,106,20",
+                    "words": [
+                        {
+                            "boundingBox": "267,709,106,20",
+                            "text": "Teléfono:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "268,745,74,20",
+                    "words": [
+                        {
+                            "boundingBox": "268,751,12,14",
+                            "text": "e"
+                        },
+                        {
+                            "boundingBox": "288,745,54,20",
+                            "text": "mail:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "268,780,146,25",
+                    "words": [
+                        {
+                            "boundingBox": "268,781,64,24",
+                            "text": "Cargo"
+                        },
+                        {
+                            "boundingBox": "340,780,74,20",
+                            "text": "actual:"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "258,885,196,20",
+                    "words": [
+                        {
+                            "boundingBox": "258,885,58,20",
+                            "text": "Perfil"
+                        },
+                        {
+                            "boundingBox": "325,885,129,20",
+                            "text": "Profesional"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "boundingBox": "626,265,828,1859",
+            "lines": [
+                {
+                    "boundingBox": "1052,265,299,42",
+                    "words": [
+                        {
+                            "boundingBox": "1052,265,299,42",
+                            "text": "ASESOFTWARE"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "765,427,178,21",
+                    "words": [
+                        {
+                            "boundingBox": "765,427,67,21",
+                            "text": "HOJA"
+                        },
+                        {
+                            "boundingBox": "841,428,31,20",
+                            "text": "DE"
+                        },
+                        {
+                            "boundingBox": "880,428,63,20",
+                            "text": "VIDA"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "626,569,332,24",
+                    "words": [
+                        {
+                            "boundingBox": "626,569,65,20",
+                            "text": "Johan"
+                        },
+                        {
+                            "boundingBox": "700,570,75,19",
+                            "text": "Steven"
+                        },
+                        {
+                            "boundingBox": "783,570,77,23",
+                            "text": "Capera"
+                        },
+                        {
+                            "boundingBox": "870,569,88,20",
+                            "text": "Peñuela"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "628,603,251,25",
+                    "words": [
+                        {
+                            "boundingBox": "628,603,110,25",
+                            "text": "Ingeniería"
+                        },
+                        {
+                            "boundingBox": "747,609,26,14",
+                            "text": "en"
+                        },
+                        {
+                            "boundingBox": "781,604,98,19",
+                            "text": "Sistemas"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "627,638,131,24",
+                    "words": [
+                        {
+                            "boundingBox": "627,638,131,24",
+                            "text": "05/08/1995"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "628,675,137,19",
+                    "words": [
+                        {
+                            "boundingBox": "628,675,137,19",
+                            "text": "1023006157"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "627,711,138,18",
+                    "words": [
+                        {
+                            "boundingBox": "627,711,138,18",
+                            "text": "3108541343"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "628,745,309,24",
+                    "words": [
+                        {
+                            "boundingBox": "628,745,309,24",
+                            "text": "iscapera@asesoftware.com"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "627,780,327,20",
+                    "words": [
+                        {
+                            "boundingBox": "627,780,88,20",
+                            "text": "Analista"
+                        },
+                        {
+                            "boundingBox": "724,781,99,19",
+                            "text": "Sistemas"
+                        },
+                        {
+                            "boundingBox": "831,780,123,20",
+                            "text": "Intermedio"
+                        }
+                    ]
+                },
+                {
+                    "boundingBox": "1361,2097,93,27",
+                    "words": [
+                        {
+                            "boundingBox": "1361,2097,76,27",
+                            "text": "Página"
+                        },
+                        {
+                            "boundingBox": "1447,2098,7,20",
+                            "text": "I"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
